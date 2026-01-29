@@ -1,0 +1,168 @@
+[I 2026-01-10 05:05:01.001 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-10 05:05:01.007 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-10 05:05:01.012 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-10 05:05:01.016 ServerApp] notebook | extension was successfully linked.
+[I 2026-01-10 05:05:02.951 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-10 05:05:03.086 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-10 05:05:03.091 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-10 05:05:03.094 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-10 05:05:03.143 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.11/site-packages/jupyterlab
+[I 2026-01-10 05:05:03.143 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 2026-01-10 05:05:03.144 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-10 05:05:03.560 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-10 05:05:03.564 ServerApp] notebook | extension was successfully loaded.
+[C 2026-01-10 05:05:03.565 ServerApp] Running as root is not recommended. Use --allow-root to bypass.
+[I 2026-01-10 05:05:19.719 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-10 05:05:19.721 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-10 05:05:19.724 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-10 05:05:19.727 ServerApp] notebook | extension was successfully linked.
+[I 2026-01-10 05:05:19.934 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-10 05:05:19.961 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-10 05:05:19.964 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-10 05:05:19.966 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-10 05:05:19.969 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.11/site-packages/jupyterlab
+[I 2026-01-10 05:05:19.969 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 2026-01-10 05:05:19.969 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-10 05:05:20.019 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-10 05:05:20.023 ServerApp] notebook | extension was successfully loaded.
+[I 2026-01-10 05:05:20.023 ServerApp] Serving notebooks from local directory: /workspace/ha
+[I 2026-01-10 05:05:20.024 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-10 05:05:20.024 ServerApp] http://b29528e1ae0a:8888/tree?token=3363a05b3cd51fba99bb159c5b6867a18702613dcb9e71f0
+[I 2026-01-10 05:05:20.024 ServerApp]     http://127.0.0.1:8888/tree?token=3363a05b3cd51fba99bb159c5b6867a18702613dcb9e71f0
+[I 2026-01-10 05:05:20.024 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-01-10 05:05:20.040 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/jpserver-43-open.html
+    Or copy and paste one of these URLs:
+        http://b29528e1ae0a:8888/tree?token=3363a05b3cd51fba99bb159c5b6867a18702613dcb9e71f0
+        http://127.0.0.1:8888/tree?token=3363a05b3cd51fba99bb159c5b6867a18702613dcb9e71f0
+[I 2026-01-10 05:05:20.081 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-01-10 05:06:59.011 ServerApp] Creating new notebook in /project
+[I 2026-01-10 05:07:00.362 ServerApp] Saving file at /project/Untitled.ipynb
+[I 2026-01-10 05:07:00.539 ServerApp] Kernel started: 0691bb63-5ea1-486f-9323-3b507db56571
+[I 2026-01-10 05:07:01.970 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 05:07:01.970 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 05:07:01.973 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 05:07:01.977 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[W 2026-01-10 05:07:01.980 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-01-10 05:07:02.012 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 05:07:02.014 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 05:07:02.046 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 05:07:02.047 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 05:07:02.552 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 05:07:02.554 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 05:09:14.752 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:11:15.568 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:13:15.841 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:15:15.997 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:17:16.201 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:19:16.324 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:21:16.567 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:23:16.841 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:25:17.565 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:27:17.709 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:29:18.593 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:31:18.823 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:33:19.561 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:35:19.756 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:37:20.556 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:39:20.638 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:43:20.842 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:45:21.138 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:47:21.455 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:49:21.814 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:51:22.007 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 05:53:22.596 ServerApp] Saving file at /project/DatasetPrep.ipynb
+[I 2026-01-10 06:06:31.639 ServerApp] Creating new notebook in 
+[I 2026-01-10 06:06:33.077 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 06:06:33.080 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 06:06:35.976 ServerApp] Kernel started: bdb9c1db-f66f-4350-9dc0-2dcf748760ee
+[I 2026-01-10 06:06:36.596 ServerApp] Adapting from protocol version 5.3 (kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee) to 5.4 (client).
+[I 2026-01-10 06:06:36.599 ServerApp] Connecting to kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee.
+[I 2026-01-10 06:08:41.927 ServerApp] Saving file at /SBIC.ipynb
+[I 2026-01-10 06:10:42.149 ServerApp] Saving file at /SBIC.ipynb
+[I 2026-01-10 06:12:42.606 ServerApp] Saving file at /SBIC.ipynb
+[I 2026-01-10 06:14:42.905 ServerApp] Saving file at /SBIC.ipynb
+[I 2026-01-10 06:16:42.974 ServerApp] Saving file at /SBIC.ipynb
+[I 2026-01-10 06:18:43.127 ServerApp] Saving file at /SBIC.ipynb
+[I 2026-01-10 06:21:26.532 ServerApp] Starting buffering for 0691bb63-5ea1-486f-9323-3b507db56571:6bb25df1-be19-46f5-8d8a-abc95b3307ac
+[I 2026-01-10 06:21:27.604 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 06:21:27.605 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 06:21:27.625 ServerApp] Adapting from protocol version 5.3 (kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee) to 5.4 (client).
+[I 2026-01-10 06:21:27.627 ServerApp] Connecting to kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee.
+[I 2026-01-10 06:21:27.813 ServerApp] Starting buffering for 0691bb63-5ea1-486f-9323-3b507db56571:931d06da-6e5e-4b4d-955c-8c9a70d12f9c
+[I 2026-01-10 06:21:32.435 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 06:21:32.437 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 06:21:32.456 ServerApp] Adapting from protocol version 5.3 (kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee) to 5.4 (client).
+[I 2026-01-10 06:21:32.457 ServerApp] Connecting to kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee.
+[I 2026-01-10 06:21:32.856 ServerApp] Starting buffering for 0691bb63-5ea1-486f-9323-3b507db56571:6ce57e3e-cbc2-4d3c-ad58-c179908f6d6d
+[I 2026-01-10 06:21:33.324 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-10 06:21:33.326 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-10 07:13:12.656 ServerApp] Starting buffering for bdb9c1db-f66f-4350-9dc0-2dcf748760ee:8b800d1f-fea1-45c6-9a64-4d7222f23aea
+[I 2026-01-10 07:13:12.658 ServerApp] Starting buffering for 0691bb63-5ea1-486f-9323-3b507db56571:d481c5c4-593d-41df-8b31-e2bc2ab54615
+[I 2026-01-13 04:47:57.228 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-13 04:47:57.236 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-13 04:47:57.261 ServerApp] Adapting from protocol version 5.3 (kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee) to 5.4 (client).
+[I 2026-01-13 04:47:57.265 ServerApp] Connecting to kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee.
+[I 2026-01-13 04:47:57.681 ServerApp] Starting buffering for bdb9c1db-f66f-4350-9dc0-2dcf748760ee:f6c8a2d5-d7a0-4611-b5f4-6909863690a7
+[I 2026-01-13 04:47:57.691 ServerApp] Starting buffering for 0691bb63-5ea1-486f-9323-3b507db56571:a8769d08-cdb2-4a13-94f8-e6ef5c9c30ca
+[I 2026-01-13 04:48:31.493 ServerApp] Creating new notebook in /project
+[I 2026-01-13 04:48:31.947 ServerApp] Saving file at /project/Untitled.ipynb
+[I 2026-01-13 04:48:31.998 ServerApp] Kernel started: c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80
+[I 2026-01-13 04:48:32.692 ServerApp] Adapting from protocol version 5.3 (kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80) to 5.4 (client).
+[I 2026-01-13 04:48:32.693 ServerApp] Connecting to kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80.
+[I 2026-01-13 04:48:34.205 ServerApp] Adapting from protocol version 5.3 (kernel 0691bb63-5ea1-486f-9323-3b507db56571) to 5.4 (client).
+[I 2026-01-13 04:48:34.207 ServerApp] Connecting to kernel 0691bb63-5ea1-486f-9323-3b507db56571.
+[I 2026-01-13 04:48:34.233 ServerApp] Adapting from protocol version 5.3 (kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee) to 5.4 (client).
+[I 2026-01-13 04:48:34.236 ServerApp] Connecting to kernel bdb9c1db-f66f-4350-9dc0-2dcf748760ee.
+[I 2026-01-13 04:48:34.296 ServerApp] Adapting from protocol version 5.3 (kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80) to 5.4 (client).
+[I 2026-01-13 04:48:34.298 ServerApp] Connecting to kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80.
+[I 2026-01-13 04:48:34.998 ServerApp] Starting buffering for 0691bb63-5ea1-486f-9323-3b507db56571:366a68f7-c1b2-48d1-b6e3-cf44fddddf0a
+[I 2026-01-13 04:48:35.001 ServerApp] Starting buffering for bdb9c1db-f66f-4350-9dc0-2dcf748760ee:490c36ab-77f7-41c6-9a93-3d75560109d3
+[I 2026-01-13 04:48:35.235 ServerApp] Adapting from protocol version 5.3 (kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80) to 5.4 (client).
+[I 2026-01-13 04:48:35.237 ServerApp] Connecting to kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80.
+[I 2026-01-13 04:50:45.252 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 04:52:46.234 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 04:56:47.244 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 04:58:48.271 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:00:49.250 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:04:50.259 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:06:50.348 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:12:50.465 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:14:50.855 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:16:51.160 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:18:51.486 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:20:51.668 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:22:51.820 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:24:51.987 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:28:53.353 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:30:53.525 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:32:53.784 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:34:54.382 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:38:54.576 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:40:54.675 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:42:54.831 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:44:55.124 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:46:55.296 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:48:55.438 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:50:56.467 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:52:56.587 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:54:12.874 ServerApp] Kernel restarted: c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80
+[I 2026-01-13 05:54:12.909 ServerApp] Adapting from protocol version 5.3 (kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80) to 5.4 (client).
+[I 2026-01-13 05:54:12.909 ServerApp] Connecting to kernel c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80.
+[W 2026-01-13 05:54:15.439 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x702cbc548a50>
+[I 2026-01-13 05:54:56.681 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:56:56.822 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 05:58:56.974 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:00:57.484 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:02:57.656 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:04:57.795 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:06:58.075 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:08:58.888 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:11:00.460 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:13:00.596 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:15:00.766 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:17:01.116 ServerApp] Saving file at /project/ParaDetox.ipynb
+[I 2026-01-13 06:18:28.017 ServerApp] Starting buffering for c3a0dc7e-0df3-4b68-8892-4b46c3fd6a80:e6e2017c-58d9-45ac-8d5c-fc3df18f1c9c

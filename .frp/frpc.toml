@@ -1,0 +1,11 @@
+# Your Azure VM Public IP
+serverAddr ="20.41.113.236"
+serverPort = 80
+
+[[proxies]]
+name = "ssh-host-via-container"
+type = "tcp"
+# CRITICAL: Use the Host IP you found in Step 2 (usually 172.17.0.1)
+localIP = "172.17.0.1"
+localPort = 22
+remotePort = 6000

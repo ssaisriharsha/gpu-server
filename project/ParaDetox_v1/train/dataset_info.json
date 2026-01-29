@@ -1,0 +1,54 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "para_detox-augmented",
+  "dataset_size": 4951303,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/harsha2946/ParaDetox-Augmented@a8dd8ffe5d1d061882bb7bd6b971c0dab6a7efcd/data/train-00000-of-00001.parquet": {
+      "num_bytes": 2918216,
+      "checksum": null
+    }
+  },
+  "download_size": 2918216,
+  "features": {
+    "en_toxic_comment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "en_neutral_comment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sentence_similarity": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "toxic_comment_toxicity": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "neutral_comment_toxicity": {
+      "dtype": "float32",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 7869519,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 4951303,
+      "num_examples": 39488,
+      "dataset_name": "para_detox-augmented"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
